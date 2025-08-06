@@ -25,7 +25,7 @@ All practice and learning notebooks are saved in the `notebooks/` folder.
 
 ## 🎯 Goals
 
-- [ ] Understand basic ML algorithms
+- [ Done ] Understand basic ML algorithms
 - [ ] Complete at least 5 hands-on ML projects
 - [ ] Learn how to evaluate models properly
 - [ ] Participate in a Kaggle competition
